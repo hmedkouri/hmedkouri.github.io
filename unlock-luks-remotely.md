@@ -1,4 +1,4 @@
-[Source](https://oliverviebrooks.com/2017/12/05/unlocking-luks-volumes-without-local-access/ "Permalink to Unlocking LUKS Volumes Without Local Access |  Oliver VieBrooks")
+[Source OliverVieBrooks.com](https://oliverviebrooks.com/2017/12/05/unlocking-luks-volumes-without-local-access/ "Permalink to Unlocking LUKS Volumes Without Local Access |  Oliver VieBrooks")
 
 # Unlocking LUKS Volumes Without Local Access |  Oliver VieBrooks
 
@@ -169,8 +169,6 @@ At the prompt, use the command “unlock”.
 If you’ve entered the proper password, your server will reboot and dropbear will disconnect. Wait a bit for it to complete booting and you should be able to log in as normal.
 
 * * *
-
-© OliverVieBrooks.com 2017
 
 [1]: https://oliverviebrooks.com
 [2]: https://oliverviebrooks.com/contact/
